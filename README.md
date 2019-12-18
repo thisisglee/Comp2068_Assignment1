@@ -1,2 +1,3 @@
-# Comp2068_Assignment1
-ASSIGNMENT 1 JAVASCRIPT FRAMEWORKS GURLEEN SINGH 200356784
+# COMP2068-Assignment-1
+
+This application represents my portfolio and is built using MEAN stack.
